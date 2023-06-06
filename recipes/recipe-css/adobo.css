@@ -1,0 +1,49 @@
+* {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+body {
+    background-color: bisque;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: bisque;
+}
+
+.text-container {
+    border: 3px solid black;
+    padding: 10px;
+    background-color: burlywood;
+}
+
+h1 {
+    text-align: center;
+    color: brown;
+   
+}
+img {
+    margin: 0 auto;
+    display: block;
+    width: 500px;
+}
+
+p {
+    font-size: 20px;
+}
+
+h3 {
+    font-size: 23px;
+    font-weight: 800;
+}
+
+ul {
+    list-style: none;
+    font-size: 20px;
+}
+
+ol {
+    font-size: 20px;
+}
